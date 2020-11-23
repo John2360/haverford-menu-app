@@ -8,8 +8,6 @@ class ApiData {
   String phone_number;
 
   void getMenu() async {
-
-    
   }
 
 }
